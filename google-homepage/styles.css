@@ -102,14 +102,6 @@ a {
   padding: 0 8px;
 }
 
-#input_img {
-  position: fixed;
-  padding: 14px;
-  width: 24px;
-  height: 24px;
-}
-
-
 /* Buttons */
 .buttons {
   text-align: center;
